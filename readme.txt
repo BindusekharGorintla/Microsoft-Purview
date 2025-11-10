@@ -1,4 +1,4 @@
-Implementation of Azure Purview in Databricks
+Implementation of Microsoft Purview in Azure
 Approach1:Use Azure Purview’s REST APIs for creating custom lineage
 Link:https://piethein.medium.com/use-azure-purviews-rest-apis-for-creating-custom-lineage-ad8efacc6230
 Pros:     We can create custom lineage via Service Principal Purview’s REST API. We can extend these objects with additional metadata, like relationships to terms, new entities and definitions. We can apply customizations, register new types or transfer metadata from other repositories
